@@ -1,1 +1,2 @@
-config dev
+config：
+  info: spring-cloud-config3 main config-dev, version =1
